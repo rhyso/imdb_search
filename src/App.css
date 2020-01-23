@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.movie-title{
+  font-size: 18px;
+  color: black;
+  font-family: Helvetica;
+}
